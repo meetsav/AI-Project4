@@ -1,0 +1,11 @@
+4
+1	1	NoBreeze
+1	1	NoGlitter
+1	1	NoStench
+1	1	NoPit
+1	1	NoWumpus
+2	1	Breeze
+2	1	NoStench
+2	1	NoGlitter
+2	2	NoPit
+
